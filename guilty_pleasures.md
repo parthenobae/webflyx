@@ -6,3 +6,4 @@
 - Troll 2
 - Manos: The Hands of Fate
 - Sharknado
+- BReaking bad
